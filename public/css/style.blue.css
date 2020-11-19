@@ -24,8 +24,16 @@ h1 {
  background: #555555;
 /* Modify the Color green HERE */
 /* Modify the Color green HERE */
+<<<<<<< HEAD
 /*  background: #01a982;*/
 /* background: #000550; */
+=======
+/* background: #01a982; */
+/* Red Color*/
+/* Red Color*/
+/*  background: #844550;*/
+  background: #999000;
+>>>>>>> 8e19b764b9fc4a1b9bd58f99d35c6a3be83aa1d7
 /*  background: #999000;*/
 /*  background: #000999;*/
   padding: 10px 0;
